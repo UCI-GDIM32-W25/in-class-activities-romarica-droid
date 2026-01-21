@@ -22,7 +22,7 @@ public class Pigeon : MonoBehaviour
     // - otherwise, it should be Idle
     private void UpdateState ()
     {
-        if(Input.GetKey(KeyCode.A))
+        if(Input.GetKeyDown(KeyCode.A))
         {
             _movementState = MovementState.Flying;
         }
