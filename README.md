@@ -29,4 +29,12 @@ https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/
 ### Activity 2
 [First commit on MG2](https://github.com/UCI-GDIM32-W25/mg2-oop-review-romarica-droid/commit/32d7cbb37138b39732ca9b5764cbde548ee4f539)
 
-I was able to set up the enviroment with a gronud, player, and a coin prefab within the prefab folder. I also started working on the jumping for the player as well as setting up my game controller.
+I was able to set up the enviroment with a gronud, player, and a coin prefab within the prefab folder. I also started working on the jumping for the player as well as setting up my game controller.'
+
+## W3
+
+### Activity 0-2 
+Partner: Evrin Lee
+
+### Activity 3
+![alt text](<MG3 map.jpg>)
