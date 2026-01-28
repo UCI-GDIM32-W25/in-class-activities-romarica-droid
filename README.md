@@ -43,3 +43,6 @@ Partner: Evrin Lee
 
 ### Activity 0
 Partner: Evrin Lee
+
+### Activity 1
+When adding more locators, the information was sent alot slower between the different seaguls.
