@@ -38,3 +38,8 @@ Partner: Evrin Lee
 
 ### Activity 3
 ![alt text](<MG3 map.jpg>)
+
+## W4
+
+### Activity 0
+Partner: Evrin Lee
