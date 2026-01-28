@@ -46,3 +46,9 @@ Partner: Evrin Lee
 
 ### Activity 1
 When adding more locators, the information was sent alot slower between the different seaguls.
+
+### Activity 2
+![alt text](MG4.jpg)
+
+### Activity 3
+[MG4 repository](https://github.com/romarica-droid/HW4)
