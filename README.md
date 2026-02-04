@@ -62,7 +62,22 @@ I like how the Use of IBreakable and Item class have alot of potiental to be mod
 For the Model, the EnemyStats and ItemW5Demo2 scripts hold all the information about the certain items and enemy interactions for the game to use. For the View element of the demo, the InventoryUI and DialogueBubble scripts all display the backend code running. For the Controller element for the demo, The PlayerW5Demo2 class and EnemyW5Demo2 both manage the movement and proximity systems that will display the dialogue bubbles. 
 
 ### Activity 3
-Looking at Willow's desired game, one of the best design patterns that could be used for the game is ScriptableObjects. The has a massive amount of various items and npc interactions that if they were hard coded, would become redudant and time consuming to produce with C# Alone. However, by using Scriptable objects, a majority of the games items and npc interactions can not only be easily asseciable by the programmer, but also have room for the designer and artist to adjust.
+Scenario 1:
+- Mvc
+    - seperate the data for points gained and note speed and whatnot (Model)
+    - Sprites and UI as well as visual Indicators (View)
+    - Carries out how the notes move and how the player interacts with them (Controller)
+
+Scenario 2:
+- MVC
+    - Player, points, money, and stats for weapons and abilites (Model)
+    - UI, scoreboard, and other visual results of the game (View)
+    - Carrying out use of abilites, damage players, creating sheilds (Controller)
+
+Scenario 3:
+- State machine
+    - Player has several states for running, planting, trading, and several other parts of the game that can have seperate states
+    - Animations can be tied to the states to make it easier for programmer 
 
 ### Activity 4
 Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
