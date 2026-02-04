@@ -57,3 +57,13 @@ When adding more locators, the information was sent alot slower between the diff
 
 ### Activity 1 
 I like how the Use of IBreakable and Item class have alot of potiental to be modified between each item. However, i feel like rewritting the damage class is redudant and will become grueling to reimpliment. I would make the item class calculate damage and make it virtual, so if the item did not need it to be edited it can stay, or be edited by the programmer.
+
+### Activity 2
+For the Model, the EnemyStats and ItemW5Demo2 scripts hold all the information about the certain items and enemy interactions for the game to use. For the View element of the demo, the InventoryUI and DialogueBubble scripts all display the backend code running. For the Controller element for the demo, The PlayerW5Demo2 class and EnemyW5Demo2 both manage the movement and proximity systems that will display the dialogue bubbles. 
+
+### Activity 3
+Looking at Willow's desired game, one of the best design patterns that could be used for the game is ScriptableObjects. The has a massive amount of various items and npc interactions that if they were hard coded, would become redudant and time consuming to produce with C# Alone. However, by using Scriptable objects, a majority of the games items and npc interactions can not only be easily asseciable by the programmer, but also have room for the designer and artist to adjust.
+
+### Activity 4
+Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
+[Final Project Final Draft Documment](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?usp=sharing)
