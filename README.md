@@ -66,4 +66,5 @@ Looking at Willow's desired game, one of the best design patterns that could be 
 
 ### Activity 4
 Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
+
 [Final Project Final Draft Documment](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?usp=sharing)
