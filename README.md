@@ -53,7 +53,7 @@ When adding more locators, the information was sent alot slower between the diff
 ### Activity 3
 [MG4 repository](https://github.com/romarica-droid/HW4)
 
-## W4
+## W5
 
 ### Activity 1 
 I like how the Use of IBreakable and Item class have alot of potiental to be modified between each item. However, i feel like rewritting the damage class is redudant and will become grueling to reimpliment. I would make the item class calculate damage and make it virtual, so if the item did not need it to be edited it can stay, or be edited by the programmer.
@@ -83,3 +83,13 @@ Scenario 3:
 Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
 
 [Final Project Final Draft Documment](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?usp=sharing)
+
+## W6
+
+### Activity 1
+[Notes for 2/102/2026](https://docs.google.com/document/d/1nAKMCzUKeBY0UssbaXUPBFRLgyss7vPdK5rcIJ2h9To/edit?usp=sharing)
+
+### Activity 2
+Attendance: Romarick Anderson, Ransom Liu
+Evrin Lee - VDGC Game Developer week
+[Final Project Repository](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?usp=sharing)
