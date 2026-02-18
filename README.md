@@ -87,9 +87,28 @@ Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
 ## W6
 
 ### Activity 1
-[Notes for 2/102/2026](https://docs.google.com/document/d/1nAKMCzUKeBY0UssbaXUPBFRLgyss7vPdK5rcIJ2h9To/edit?usp=sharing)
+[Notes for 2/10/2026](https://docs.google.com/document/d/1nAKMCzUKeBY0UssbaXUPBFRLgyss7vPdK5rcIJ2h9To/edit?usp=sharing)
 
 ### Activity 2
 Attendance: Romarick Anderson, Ransom Liu
 Evrin Lee - VDGC Game Developer week
 [Final Project Repository](https://docs.google.com/document/d/1yaFfMOREKQ-uBypP_ClrG3IaEjA-R7tuW3AvkSeLdno/edit?usp=sharing)
+
+## W7
+
+### Activity 1
+[Notes for 2/17/2026](https://docs.google.com/document/d/18Pfl0hIJuI0dH92n2WbN7UnkOnOmx5z48IvF9tPr3q4/edit?usp=sharing)
+
+### Activity 2 
+Attendance: Romarick Anderson, Evrin Lee
+Ransom Liu - sick (contacted us)
+
+### Activity 3
+![alt text](<GDM32 final mind map.jpg>)
+
+### Activity 4
+
+
+### Activity 5
+
+
