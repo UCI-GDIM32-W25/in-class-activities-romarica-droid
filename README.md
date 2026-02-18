@@ -107,8 +107,10 @@ Ransom Liu - sick (contacted us)
 ![alt text](<GDM32 final mind map.jpg>)
 
 ### Activity 4
-
+[Trello Board for Progress](https://trello.com/b/dcBIyEk5)
 
 ### Activity 5
+[Player movement commit](https://github.com/lindenreid/GDIM32-Final/commit/e393bf17ba38f063457d65fb8589df95ed0838d0)
 
+For this commit, i created a script with the base of the player movement. The class takes a navmesh agent and uses input axis to move the player based on the the WASD keys.
 
