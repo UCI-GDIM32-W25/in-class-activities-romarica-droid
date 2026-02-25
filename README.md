@@ -114,3 +114,31 @@ Ransom Liu - sick (contacted us)
 
 For this commit, i created a script with the base of the player movement. The class takes a navmesh agent and uses input axis to move the player based on the the WASD keys.
 
+## W8
+
+### Activity 1
+[Notes for 2/24/2026](https://docs.google.com/document/d/16LoE-kBcWZPuANjL0weMd1aof7Cl5XFK5KR1eIY4KRw/edit?usp=sharing)
+
+### Activity 2
+Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
+
+### Activity 3
+Playtesting goal: everything we did for this week functions (movement, lion chasing, and can click on door to interact with it(it will disappear))
+
+Playtesting captain: Evrin
+
+Playtesting notes:
+- collision w the rocks is weird rn
+- collision w lion is weird rn
+- lion trigger distance could be bigger
+- lion might be a little too fast
+
+### Activity 4
+Current Personal Task:
+Pigeon Dialouge 
+
+Function: When a player clicks on a pigeon, a dialouge box with a hint will appeasr
+
+### Activity 5
+
+
