@@ -142,4 +142,24 @@ Function: When a player clicks on a pigeon, a dialouge box with a hint will appe
 ### Activity 5
 [Personal Commit](https://github.com/random0624/GDIM32-Final/commits/main/)
 
+## W9
+
+### Activity 1
+[Notes for 2/24/2026]()
+
+### Activity 2
+Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
+
+### Activity 3
+Playtesting goal: 
+
+Playtesting captain: 
+
+Playtesting notes:
+
+
+### Activity 4
+
+### Activity 5
+[Personal Commit]()
 
