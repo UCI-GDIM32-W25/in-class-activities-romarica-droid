@@ -145,21 +145,28 @@ Function: When a player clicks on a pigeon, a dialouge box with a hint will appe
 ## W9
 
 ### Activity 1
-[Notes for 2/24/2026]()
+[Notes for 2/24/2026](https://docs.google.com/document/d/1IuEaejt0nQmWYapGGrJkLWH8mwGZw-pncMTisUIbOfk/edit?usp=sharing)
 
 ### Activity 2
 Attendance: Romarick Anderson, Evrin Lee, Ransom Liu
 
 ### Activity 3
-Playtesting goal: 
+Playtesting captain: Evrin Lee
 
-Playtesting captain: 
+Playtesting goal: player can move around and experience all currently existing interaction without confusion, or running into bugs
 
-Playtesting notes:
-
+Notes:
+- lion kinda buggy
+- make it more obvious where the pigeon is (add spotlight)
+- add all the lions (make them more threatening)
+- place all collectables & doors in places that actually make the game fun
 
 ### Activity 4
+The main mechanics of the game are nearly complete, which is a majority of the difficult task that are complete. A new batch of smaller task a still needed, as well as developing the enclosure with puzzles. We still need several sound effects as well as well as the bush hiding mechanic. We are a little behind but have gotten through the tougher start of the game.
 
 ### Activity 5
-[Personal Commit]()
+[Personal Commit](https://github.com/random0624/GDIM32-Final/commit/5b86ef166e9d0802261c5aee3a9a9889260fe243)
+
+Function: Within the door script, a new TMP_text variable will is linked to a hidden on the player UI. A new clicker system is added that will focus on locater sending information, which will be updated later.
+
 
