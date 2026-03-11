@@ -169,4 +169,29 @@ The main mechanics of the game are nearly complete, which is a majority of the d
 
 Function: Within the door script, a new TMP_text variable will is linked to a hidden on the player UI. A new clicker system is added that will focus on locater sending information, which will be updated later.
 
+## W10
+
+### Activity 1
+Attedance: Evrin Lee, Romarick Anderson
+
+### Activity 2 
+Playtesting Captain: Evrin Lee
+
+Playtesting goal: See if lion significantly smoother than last time
+
+Notes:
+
+- The lion doesn't spasm like last time but it sometimes gets stuck in the rocks
+- There are places (especially between the rocks and the fence) where the player falls through
+- Player movement, inventory system, dialogue interaction works smoothly
+
+### Activity 3
+
+Currently, we are 70% done with our game, and are adding more envirmonet changes to our game. We are projected to finish early, but will need to take time to finish the newer systems later in the game.
+
+### Activity 4
+[Current Commit](https://github.com/random0624/GDIM32-Final/commit/c5d718c993b76fe20f6ab36d4996835ac2864efa)
+
+Not only did remake the door to work on a locator system now, i was able to change the pigeon text depending on what part of the sequence of code the player is on (after mutiple merge conflict ;_;).
+
 
